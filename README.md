@@ -14,4 +14,4 @@ Lessons:
 - [x] Lesson 10 - Pointers. Dynamic memory
 - [x] Lesson 11 - Strings
 - [x] Lesson 12 - Working with files
-- [x] Lesson 13 - Final work: Game “Life”
+- [x] Lesson 13 - [Final work: Game “Life”](https://github.com/Alexander-Eismont/Final-works-netology)
